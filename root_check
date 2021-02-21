@@ -2,7 +2,7 @@
 if [ ${UID} -ne 0 ]
 then
 echo
-echo " You need root access"
+echo " You need root access. Contact Admin"
 echo
 exit 0
 fi
